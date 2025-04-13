@@ -17,12 +17,10 @@ This is a Talabat Clone Project built in in Onion Architecture Based on the foll
 </blockquote>
 
 
-## Authors
-
-- [@Omar Mohamed Ibrahim](https://www.linkedin.com/in/omar-mohamed-ibrahim-015ab31ba/)
-
  <h2 align='center'>⭐ Authors ⭐ </h2>
 <!-- readme: collaborators -start -->
+- [@Omar Mohamed Ibrahim](https://www.linkedin.com/in/omar-mohamed-ibrahim-015ab31ba/)
+
 <table align='center'> 
 <tr>
     <td align="center">
