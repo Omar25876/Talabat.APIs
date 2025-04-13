@@ -1,0 +1,15 @@
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\bin\Debug\net9.0\Talabat.Repository.deps.json
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\bin\Debug\net9.0\Talabat.Repository.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\bin\Debug\net9.0\Talabat.Repository.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\bin\Debug\net9.0\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\bin\Debug\net9.0\Talabat.Core.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.AssemblyInfo.cs
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat..61C101DD.Up2Date
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\refint\Talabat.Repository.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\Talabat.Repository.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Reository\obj\Debug\net9.0\ref\Talabat.Repository.dll
