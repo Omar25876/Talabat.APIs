@@ -33,8 +33,7 @@ This is a Talabat Clone Project built in in Onion Architecture Based on the foll
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators -end -->
-<h2 align='center'>Thank You. 💖 </h2>
+
   
 ### API Documentation
 - API documentation available at `https://localhost:7132/swagger/index.html`
