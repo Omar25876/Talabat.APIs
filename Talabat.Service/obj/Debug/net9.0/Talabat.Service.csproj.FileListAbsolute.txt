@@ -1,0 +1,15 @@
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\bin\Debug\net9.0\Talabat.Service.deps.json
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\bin\Debug\net9.0\Talabat.Service.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\bin\Debug\net9.0\Talabat.Service.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.AssemblyInfo.cs
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\refint\Talabat.Service.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\ref\Talabat.Service.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\bin\Debug\net9.0\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\bin\Debug\net9.0\Talabat.Core.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Service\obj\Debug\net9.0\Talabat..89B18B2E.Up2Date
