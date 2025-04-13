@@ -1,0 +1,12 @@
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\bin\Debug\net9.0\Talabat.Core.deps.json
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\bin\Debug\net9.0\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\bin\Debug\net9.0\Talabat.Core.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.AssemblyInfo.cs
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\refint\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.pdb
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\ref\Talabat.Core.dll
+D:\1- ITI\20-API(C#)\labs\Talabat App\Talabat\Talabat.Core\obj\Debug\net9.0\Talabat.Core.csproj.AssemblyReference.cache
